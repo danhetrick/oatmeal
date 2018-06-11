@@ -3,7 +3,9 @@
 OpenArena Toolkit & Mod Environment for All
 
 AUTHOR:		Dan Hetrick (dhetrick@gmail.com)
+
 WEBSITE:	https://github.com/danhetrick/oatmeal
+
 VERSION:	0.51 (vulcan)
 
 
@@ -44,5 +46,3 @@ Exceptions:
 	File:		g_utils.c
 	Author:		Unknown
 	Source:		Code3Arena
-
-	-----------------------------------------------------
