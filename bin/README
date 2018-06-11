@@ -1,0 +1,86 @@
+  ____       _______ __  __ ______          _      
+ / __ \   /\|__   __|  \/  |  ____|   /\   | |     
+| |  | | /  \  | |  | \  / | |__     /  \  | |     
+| |  | |/ /\ \ | |  | |\/| |  __|   / /\ \ | |     
+| |__| / ____ \| |  | |  | | |____ / ____ \| |____ 
+ \____/_/    \_\_|  |_|  |_|______/_/    \_\______|
+
+OpenArena Toolkit & Mod Environment for All
+
+AUTHOR:		Dan Hetrick (dhetrick@gmail.com)
+WEBSITE:	http://oatmeal.linuxthugs.com
+VERSION:	0.51 (vulcan)
+
+|=============================================================================|
+| For documentation regarding running or making mods for OATMEAL, please see  |
+| "docs/oatmeal-0.51-manual.pdf" in the same directory as this file.  This is |
+| a PDF file, and will require an external reader, such as "Adobe Acrobat     |
+| Reader" for Windows, or "xpdf" for Linux.                                   |
+|=============================================================================|
+
+NEW CONSOLE COMMANDS
+
+Three OATMEAL cvars (drop_ammo, drop_health, and drop_armor), if activated,
+will create a console command that allows players to drop game items.
+
+	/ammo
+	This command drops a small amount of ammunition for the weapon
+	currently being held.  Only active if drop_ammo is set to "1".
+
+	/health
+	This command drops a 25 Health ball (at a cost of 25 Health).  Only
+	active if drop_health is set to "1".
+
+	/armor
+	This command drops armor.  If the calling player has more than 50
+	armor, than a yellow Armor is dropped (at a cost of 40 Armor);
+	else, an Armor Shard (at a cost of 5 Armor) is dropped.  Only active
+	if drop_armor is set to "1".
+
+OATMEAL IS OPEN SOURCE
+
+OATMEAL is an open source modification for OpenArena.  The code is released
+under the GNU Public License v2 (just like OpenArena).  Source code for the
+OATMEAL engine in included in every download (unless otherwise stated);  the
+source code can be found in the directory named "oatmeal_0.51_source_code"
+in the OATMEAL installation directory.
+
+A copy of the GPL v2 can be found in "docs/LICENSE".
+
+All code (unless otherwise noted) was written by Dan Hetrick.
+
+Exceptions:
+
+	Function:	G_LocationDamage()
+	File:		g_combat.c
+	Author:		Calrathan (calrathan@planetquake.com)
+	Source:		Code3Arena
+
+	-----------------------------------------------------
+
+	Function:	homing_missile_think()
+	File:		g_missile.c
+	Author:		Chris Hilton (chris@dctank.com)
+	Source:		Code3Arena
+
+	-----------------------------------------------------
+
+	Functions:	plasma_vortex_think()
+			rocket_vortex_think()
+			grenade_vortex_think()
+			bfg_vortex_think()
+			nailgun_vortex_think()
+			proximity_mine_vortex_think()
+	File:		g_missile.c
+	Author:		AssKicka (email unknown)
+	Source:		Code3Arena
+
+	-----------------------------------------------------
+
+	Function:	findradius()
+	File:		g_utils.c
+	Author:		Unknown
+	Source:		Code3Arena
+
+	-----------------------------------------------------
+
