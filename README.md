@@ -1,22 +1,17 @@
 # oatmeal
 
-OpenArena Toolkit & Mod Environment for All
+*OpenArena Toolkit & Mod Environment for All*
 
 AUTHOR:		Dan Hetrick (dhetrick@gmail.com)
-
 WEBSITE:	https://github.com/danhetrick/oatmeal
-
 VERSION:	0.51 (vulcan)
 
 
-For documentation regarding running or making mods for OATMEAL, please see https://github.com/danhetrick/oatmeal/blob/master/bin/docs/oatmeal-0.51-manual.pdf.  This is a PDF file, and will require an external reader, such as "Adobe Acrobat Reader" for Windows, or "xpdf" for Linux.
+For documentation regarding running or making mods for *OATMEAL*, please see https://github.com/danhetrick/oatmeal/blob/master/bin/docs/oatmeal-0.51-manual.pdf.  This is a PDF file, and will require an external reader, such as "Adobe Acrobat Reader" for Windows, or "xpdf" for Linux.
 
-OATMEAL IS OPEN SOURCE
+**OATMEAL IS OPEN SOURCE**
 
-OATMEAL is an open source modification for OpenArena.  The code is released
-under the GNU Public License v2 (just like OpenArena).
-
-A copy of the GPL v2 can be found in "docs/LICENSE".
+*OATMEAL* is an open source modification for OpenArena.  The code is released under the GNU Public License v2 (just like OpenArena).  A copy of the GPL v2 can be found in "docs/LICENSE".
 
 All code (unless otherwise noted) was written by Dan Hetrick.
 
