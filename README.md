@@ -1,11 +1,6 @@
-# oatmeal
+# oatmeal 0.51
 
 *OpenArena Toolkit & Mod Environment for All*
-
-AUTHOR:		Dan Hetrick (dhetrick@gmail.com)
-WEBSITE:	https://github.com/danhetrick/oatmeal
-VERSION:	0.51 (vulcan)
-
 
 For documentation regarding running or making mods for *OATMEAL*, please see [the manuel](https://github.com/danhetrick/oatmeal/blob/master/bin/docs/oatmeal-0.51-manual.pdf).  This is a PDF file, and will require an external reader, such as "Adobe Acrobat Reader" for Windows, or "xpdf" for Linux.
 
