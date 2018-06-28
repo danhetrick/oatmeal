@@ -13,6 +13,8 @@ For documentation regarding running or making mods for *OATMEAL*, please see [th
 
 *OATMEAL* is an open source modification for OpenArena.  The code is released under the GNU Public License v2 (just like OpenArena).  A copy of the GPL v2 can be found in "docs/LICENSE".
 
+*OATMEAL* was originally written for Openarena 0.8.1.  It won't compile with the current version of Openarena 0.8.8.  Implementing the mod into the current version of OA shouldn't be too hard, I just don't really have the motivation to do it myself.
+
 All code (unless otherwise noted) was written by Dan Hetrick.
 
 Exceptions:
