@@ -2,7 +2,7 @@
 
 *OpenArena Toolkit & Mod Environment for All*
 
-For documentation regarding running or making mods for *OATMEAL*, please see [the manuel](https://github.com/danhetrick/oatmeal/blob/master/bin/docs/oatmeal-0.51-manual.pdf).  This is a PDF file, and will require an external reader, such as "Adobe Acrobat Reader" for Windows, or "xpdf" for Linux.
+For documentation regarding running or making mods for *OATMEAL*, please see [the manual](https://github.com/danhetrick/oatmeal/blob/master/bin/docs/oatmeal-0.51-manual.pdf).  This is a PDF file, and will require an external reader, such as "Adobe Acrobat Reader" for Windows, or "xpdf" for Linux.
 
 **OATMEAL IS OPEN SOURCE**
 
